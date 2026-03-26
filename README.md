@@ -17,7 +17,7 @@ This portfolio was created to:
 - 📧 Email: profelix.tec@gmail.com  
 - 💻 GitHub: https://github.com/Brendacolfel10  
 - 🌐 Replit: https://replit.com/@BrendaColorado
-- 🔗 Live Website://brenda-portfolio.vercel.app
+- 🔗 Live Website: https://portfolio-website-rose-ten-44.vercel.app/
 
 ---
 
